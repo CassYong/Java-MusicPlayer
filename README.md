@@ -4,8 +4,6 @@ A simple console-based Music Player built using Java, demonstrating core Object-
 
 ![Screenshot 2025-03-21 181633](https://github.com/user-attachments/assets/2a92d5f1-1e42-4b56-9d26-b258fae983d0)
 
-![Screenshot 2025-03-21 181724](https://github.com/user-attachments/assets/9d460ddc-03c8-439b-895b-da99b9497851)
-
 
 **🔹 Features**
 
